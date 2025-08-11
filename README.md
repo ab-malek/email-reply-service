@@ -12,6 +12,9 @@ An AI-powered email reply generator that helps users craft professional response
 
 ## User Interface
 
+<img width="800" height="auto" alt="Email Assistant Screenshot" src="https://github.com/user-attachments/assets/31b3b00b-a441-409d-8bd8-68cec4f3089c" />
+<img width="500" height="auto" alt="Email Assistant Screenshot" src="https://github.com/user-attachments/assets/1afdd9c3-c747-4b21-af47-204ad0c45679" />
+
 
 
 ## Tech Stack
